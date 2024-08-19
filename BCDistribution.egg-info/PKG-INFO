@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: BCDistribution
+Version: 0.0.1
+Summary: Discrete Generalized Beta Cocho Distribution Modeling and Plotting
+Author: Francisco Farell Moedano Vargas
+Author-email: <farell.mova@gmail.com>
+Keywords: python,Beta Distribution,Rank-Abundance Diagram,
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: math
+Requires-Dist: statmodels
+Requires-Dist: matplotlib
+Requires-Dist: copy
+Requires-Dist: os
+Requires-Dist: json
+
+Process abundance data and estimate the parameters of a discrete generalized beta distribution (DGBD) (Martinez-Mekler et al., 2009) <doi:10.1371/journal.pone.0004791> that fits the data. Generates linear or non-linear model reports and uses matplotlib to plot rank abundance diagrams.

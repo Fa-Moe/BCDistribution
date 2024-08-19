@@ -1,0 +1,8 @@
+setup.py
+BCDistribution/BCDistribution.py
+BCDistribution/__init__.py
+BCDistribution.egg-info/PKG-INFO
+BCDistribution.egg-info/SOURCES.txt
+BCDistribution.egg-info/dependency_links.txt
+BCDistribution.egg-info/requires.txt
+BCDistribution.egg-info/top_level.txt

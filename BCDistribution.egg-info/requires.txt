@@ -1,0 +1,8 @@
+pandas
+numpy
+math
+statmodels
+matplotlib
+copy
+os
+json
