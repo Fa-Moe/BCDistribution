@@ -14,7 +14,7 @@ setup(
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
-        install_requires=['pandas','numpy','statsmodels','matplotlib','copy','os','json'], # add any additional packages that
+        install_requires=['pandas','numpy','statsmodels','matplotlib','json'], # add any additional packages that
         # needs to be installed along with your package. Eg: 'caer'
         keywords=['python', 'Beta Distribution', 'Rank-Abundance Diagram', ''],
         classifiers= [
